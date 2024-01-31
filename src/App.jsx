@@ -11,7 +11,7 @@ export default function App() {
           <img src={reactLogo} className="logo" alt="React logo" />
           ReactFacts
         </a>
-        <nav>React Course-Project1</nav>
+        <nav>Basic React Project</nav>
       </header>
       <div className="content">
         <main>
