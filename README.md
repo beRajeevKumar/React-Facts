@@ -1,18 +1,19 @@
-<h1 align="center">📘 THE CODE MAGAZINE 📔</h1>
+<h1 align="center">⚛ React Facts 👨‍💻</h1>
 
 This is a project for the Code Magazine, a magazine that talks about programming and technology.
 
-![Hero Page](./hero.png)
+![Hero Page](./src/assets/hero.png)
 
-Click [here](https://reactfeatures-rajeev.netlify.app/) and Read this blog.
+Click [here](https://reactfacts-rajeev.netlify.app/) and Read this blog.
 
 ## Tech stack
 
 #### Frontend
 
+- ReactJs
+- JavaScript
 - HTML
 - CSS
-- JavaScript
 - Markdown
 - DOM
 
@@ -25,16 +26,16 @@ Click [here](https://reactfeatures-rajeev.netlify.app/) and Read this blog.
 
 ## Points to remember while testing the WebApp
 
-1. First of all fork this [Repository](https://github.com/beRajeevKumar/React-Features.git) and clone it.
+1. First of all fork this [Repository](https://github.com/beRajeevKumar/React-Facts.git) and clone it.
 2. Drag the project into VS Code.
 3. Click to the [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension and run the `index.html` file.
 4. The app is now running, Now you can test the Website.
 
 ## Useful Links
 
-- [Project Demo](https://reactfeatures-rajeev.netlify.app/) - Live Project URL
+- [Project Demo](https://reactfacts-rajeev.netlify.app/) - Live Project URL
 
-- [Project Repository](https://github.com/beRajeevKumar/React-Features.git)
+- [Project Repository](https://github.com/beRajeevKumar/React-Facts.git)
 
 ## Need help?
 
