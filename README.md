@@ -1,10 +1,10 @@
 <h1 align="center">⚛ React Facts 👨‍💻</h1>
 
-This is a project for the Code Magazine, a magazine that talks about programming and technology.
+React Facts is a simple web application that provides you with some interesting facts about ReactJs. This web application is built using ReactJs, JavaScript, HTML, CSS, and Markdown. This web application is hosted on Netlify.
 
 ![Hero Page](./src/assets/hero.png)
 
-Click [here](https://reactfacts-rajeev.netlify.app/) and Read this blog.
+Click [here](https://reactfacts-rajeev.netlify.app/) to know some interesting facts about ReactJs.
 
 ## Tech stack
 
@@ -28,8 +28,9 @@ Click [here](https://reactfacts-rajeev.netlify.app/) and Read this blog.
 
 1. First of all fork this [Repository](https://github.com/beRajeevKumar/React-Facts.git) and clone it.
 2. Drag the project into VS Code.
-3. Click to the [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension and run the `index.html` file.
-4. The app is now running, Now you can test the Website.
+3. Open the terminal and hit `npm install` command to install the dependencies.
+4. After installing the dependencies, run the project using `npm run dev` command to start the development server.
+5. Now, The App is now on `http://localhost:5000/` , So you can test the WebApp.
 
 ## Useful Links
 
